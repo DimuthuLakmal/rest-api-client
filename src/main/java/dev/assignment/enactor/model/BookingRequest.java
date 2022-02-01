@@ -1,4 +1,4 @@
-package dev.assignment.enactor.request;
+package dev.assignment.enactor.model;
 
 import dev.assignment.enactor.config.Configuration;
 import dev.assignment.enactor.config.Constants;

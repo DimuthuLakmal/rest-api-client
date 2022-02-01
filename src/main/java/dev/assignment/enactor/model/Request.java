@@ -1,6 +1,4 @@
-package dev.assignment.enactor.request;
-
-import dev.assignment.enactor.config.Constants;
+package dev.assignment.enactor.model;
 
 import java.io.BufferedReader;
 import java.io.IOException;

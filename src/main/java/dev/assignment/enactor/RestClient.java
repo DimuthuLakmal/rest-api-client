@@ -2,9 +2,9 @@ package dev.assignment.enactor;
 
 import dev.assignment.enactor.config.Configuration;
 import dev.assignment.enactor.config.Constants;
-import dev.assignment.enactor.request.AvailabilityRequest;
-import dev.assignment.enactor.request.BookingRequest;
-import dev.assignment.enactor.request.Request;
+import dev.assignment.enactor.model.AvailabilityRequest;
+import dev.assignment.enactor.model.BookingRequest;
+import dev.assignment.enactor.model.Request;
 import dev.assignment.enactor.util.FakeDataGenerator;
 import dev.assignment.enactor.util.InputOutputHandler;
 import dev.assignment.enactor.util.Validator;
